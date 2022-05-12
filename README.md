@@ -1,6 +1,9 @@
 # Netflix_Clone_Page
 In this project, I will make Netflix clone landing page and add some functioning to it using Jquery. The page mostly using HTML and CSS. 
 
+##Link to the page
+https://tringuyen128.github.io/Netflix_Clone_Page/
+
 
 Here is the DEMO video:
 
